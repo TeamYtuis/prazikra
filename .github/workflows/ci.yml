@@ -17,4 +17,4 @@ jobs:
       env:
         SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
       with:
-        args: --org=bce07068-8e41-4030-a449-0e300d4ca47b
+        args: --org=bce07068-8e41-4030-a449-0e300d4ca47b monitor
